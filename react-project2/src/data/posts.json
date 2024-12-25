@@ -1,0 +1,56 @@
+ [
+      {
+        "id": 1,
+        "title": "Red Rose",
+        "description": "This beautiful red rose is a perfect gift for any occasion. It is ideal for romantic moments.",
+        "image": "./src/data/flowers/red-rose.png"
+      },
+      {
+        "id": 2,
+        "title": "White Daffodil",
+        "description": "The elegant white lily represents purity and refinement, making it a wonderful choice for special occasions.",
+        "image": "./src/data/flowers/white-daffodil.png"
+      },
+      {
+        "id": 3,
+        "title": "Delicate Peony",
+        "description": "Peonies are known for their lush blossoms and are often associated with love and prosperity.",
+        "image": "./src/data/flowers/peony.png"
+      },
+      {
+        "id": 4,
+        "title": "Bright Gerbera",
+        "description": "With their vibrant colors and large blooms, gerberas bring joy and happiness, making them a popular choice for celebrations",
+        "image": "./src/data/flowers/gerbera.png"
+      },
+      {
+        "id": 5,
+        "title": "Purple Orchid",
+        "description": "Exotic and stunning, purple orchids symbolize beauty and strength, perfect for expressing admiration.",
+        "image": "./src/data/flowers/orchid.png"
+      },
+      {
+        "id": 6,
+        "title": "Red Tulip",
+        "description": "Bright and cheerful, yellow tulips are a symbol of friendship and warmth, ideal for celebrating cheerful moments.",
+        "image": "./src/data/flowers/tulip.png"
+      },
+      {
+        "id": 7,
+        "title": "Yellow Aster",
+        "description": "Known for its star-like shape, the blue aster symbolizes daintiness and is a lovely addition to any bouquet.",
+        "image": "./src/data/flowers/aster.png"
+      },
+      {
+        "id": 8,
+        "title": "Spring Daffodil",
+        "description": "A herald of spring, daffodils are bright and cheerful, symbolizing renewal and new beginnings.",
+        "image": "./src/data/flowers/deffodil.png"
+      },
+      {
+        "id": 9,
+        "title": "Indoor Violet",
+        "description": "These charming flowers are often seen as a symbol of loyalty and devotion, making them perfect for indoor gardens.",
+        "image": "./src/data/flowers/violet.png"
+      }
+    ]
